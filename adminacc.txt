@@ -1,0 +1,8 @@
+admin01
+password 340
+
+user01
+password 341
+
+notes
+add email-check via mysqli_fetch_assoc
